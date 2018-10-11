@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Tue Oct 09 21:27:39 BST 2018
+2.base=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ad09ef33d2de7941c4ea8567d1bc1aa0ce25d1ee\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_199d6461729377afe98756497f7dd4b3da756acb\\classes.dex
+5.base=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ad09ef33d2de7941c4ea8567d1bc1aa0ce25d1ee
+1.file=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\main.xml
+6.set=DEX
+0.base=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_199d6461729377afe98756497f7dd4b3da756acb
+3.file=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.set=DEX

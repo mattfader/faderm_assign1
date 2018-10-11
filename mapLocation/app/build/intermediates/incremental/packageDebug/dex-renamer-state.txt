@@ -1,0 +1,7 @@
+#Tue Oct 09 21:27:39 BST 2018
+base.0=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_199d6461729377afe98756497f7dd4b3da756acb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ad09ef33d2de7941c4ea8567d1bc1aa0ce25d1ee\\classes.dex
+base.1=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ad09ef33d2de7941c4ea8567d1bc1aa0ce25d1ee
+file.0=C\:\\Users\\fader\\University Stuff\\Year 7\\SDA\\assign1\\mapLocation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_199d6461729377afe98756497f7dd4b3da756acb\\classes.dex

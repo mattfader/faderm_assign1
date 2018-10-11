@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\fader\University Stuff\Year 7\SDA\assign1\mapLocation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5164076164f10270efdcd9dbfa7dc25ab76685f0">
+        <dex dex="C:\Users\fader\University Stuff\Year 7\SDA\assign1\mapLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ad09ef33d2de7941c4ea8567d1bc1aa0ce25d1ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fader\University Stuff\Year 7\SDA\assign1\mapLocation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\fader\University Stuff\Year 7\SDA\assign1\mapLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_199d6461729377afe98756497f7dd4b3da756acb\classes.dex" />
+    </item>
+
+</items>
